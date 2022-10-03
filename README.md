@@ -10,6 +10,7 @@ TIMESTAMP,ORIGIN_X,ORIGIN_Y,ORIGIN_Z,XAXIS_X,XAXIS_Y,XAXIS_Z,YAXIS_X,YAXIS_Y,YAX
 ```csv
 ORIGIN_X,ORIGIN_Y,ORIGIN_Z = Vecator3(x,y,z) Object Position
 ```
+![./media/GHCSV.jpg](./media/GHCSV_import.jpg)
 ![./media/GHCSV.jpg](./media/GHCSV.jpg)
 ![./media/GHCSV.jpg](./media/GHCSV_animated.jpg)
 ![./media/GHCSV.jpg](./media/GHCSV_PointCloud.jpg)
